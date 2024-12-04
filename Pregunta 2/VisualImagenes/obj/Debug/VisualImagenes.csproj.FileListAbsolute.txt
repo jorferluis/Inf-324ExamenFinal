@@ -1,0 +1,9 @@
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\bin\Debug\VisualImagenes.exe.config
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\bin\Debug\VisualImagenes.exe
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\bin\Debug\VisualImagenes.pdb
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.csprojResolveAssemblyReference.cache
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.Form1.resources
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.Properties.Resources.resources
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.csproj.GenerateResource.Cache
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.exe
+c:\users\jorfe\documents\visual studio 2012\Projects\VisualImagenes\VisualImagenes\obj\Debug\VisualImagenes.pdb
